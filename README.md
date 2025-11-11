@@ -1,6 +1,6 @@
 # Hi, I'm Biniyam 👋
 **Computer Vision Engineer** • PyTorch • YOLO • ONNX • Full-Stack ML Systems  
-📍 Nanjing, China · ✉️ biniyam.gashaw@hotmail.com · 🌐 [biniyamgashaw.com](https://thebini.com)
+📍 Nanjing, China · ✉️ biniyam.gashaw@hotmail.com · 🌐 [thebini.com](https://thebini.com)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/iambiniyam)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:biniyam.gashaw@hotmail.com)
@@ -41,6 +41,3 @@
 - 💼 [linkedin.com/in/iambiniyam](https://linkedin.com/in/iambiniyam)  
 - 🌐 [thebini.com](https://thebini.com)
 
----
-
-_Last updated: {{auto-updated by workflow}}_
