@@ -1,43 +1,50 @@
-# Hi, I'm Biniyam 👋
+# Biniyam Gashaw
 
-**Cloud, DevOps & MLOps Engineer | Linux, Azure, Microsoft 365, Python & CI/CD | AI Infrastructure**
+**Cloud, DevOps and MLOps Engineer**
 
-📍 Beijing, China · 🌐 [thebini.com](https://thebini.com)
+I build and operate reliable cloud platforms, automated delivery pipelines, and production AI infrastructure. My work spans Linux systems, Azure, Microsoft 365 administration, Python automation, CI/CD, and machine learning operations.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-thebini.com-111111?style=for-the-badge)](https://thebini.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iambiniyam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iambiniyam)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biniyam.gashaw@hotmail.com)
+Beijing, China | [thebini.com](https://thebini.com) | [LinkedIn](https://linkedin.com/in/iambiniyam) | biniyam.gashaw@hotmail.com
 
-## About Me
+---
 
-I build and support reliable cloud platforms, automated delivery pipelines, and production AI infrastructure. My work connects **Linux systems, Azure cloud services, Microsoft 365 administration, Python automation, CI/CD, and MLOps**—from day-to-day operations to deploying and monitoring machine-learning workloads.
+## Featured projects
 
-## What I Work On
+**[ai-infra-roadmap](https://github.com/iambiniyam/ai-infra-roadmap)**
+A free, open-source guide to AI infrastructure: a nine-layer map of the stack, six stages with exit criteria, and around 220 vetted open-source projects.
 
-- **Cloud & DevOps:** Linux administration, Azure infrastructure, CI/CD automation, observability, reliability, and secure operations.
-- **Microsoft Cloud:** Microsoft 365, Exchange Online, SharePoint Online, OneDrive, Teams, and Entra ID.
-- **MLOps & AI Infrastructure:** reproducible ML workflows, model serving, monitoring, and production inference.
-- **Engineering:** Python automation, APIs, data workflows, and full-stack tools that make systems easier to operate.
+**[Android-ADB-MCP](https://github.com/iambiniyam/Android-ADB-MCP)**
+A Go MCP server that exposes 47 typed tools over the official `adb` executable, for automating Android and Android Automotive devices.
 
-## Core Technologies
+**[myhsk](https://github.com/iambiniyam/myhsk)**
+A mobile-first Chinese learning app with connected HSK vocabulary groups, clue-based character reading, and local-first FSRS progress. Live at [myhsk.cc](https://www.myhsk.cc/).
 
-`Linux` • `Azure` • `Microsoft 365` • `Entra ID` • `Python` • `CI/CD` • `GitHub Actions`  
-`Azure ML` • `MLflow` • `FastAPI` • `PyTorch` • `ONNX` • `OpenCV` • `PostgreSQL`
+**[ivi-icon-trainer](https://github.com/iambiniyam/ivi-icon-trainer)**
+A reusable icon-detection dataset and training pipeline for Android Automotive in-vehicle interfaces.
 
-## Selected Engineering Focus
+**[testflow-platform](https://github.com/iambiniyam/testflow-platform)**
+A test case management and execution platform: organize cases into suites, run them asynchronously, and track results with real-time reporting.
 
-- Reliable deployment and monitoring for cloud-hosted applications and AI services.
-- Automation that reduces manual administration and improves operational consistency.
-- Computer vision and machine-learning systems that move from experimentation to production.
-- Secure collaboration and identity workflows across Microsoft 365 environments.
+**[VisionForge](https://github.com/iambiniyam/VisionForge)**
+A computer vision toolkit covering object detection, semantic segmentation, and image classification with PyTorch and FastAPI.
 
-## GitHub Activity
+---
 
-![Biniyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambiniyam&show_icons=true&count_private=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iambiniyam&layout=compact&hide_border=true)
+## What I work on
 
-## Connect
+- **Cloud and DevOps.** Linux administration, Azure infrastructure, CI/CD automation, observability, reliability, and secure operations.
+- **Microsoft Cloud.** Microsoft 365, Exchange Online, SharePoint Online, OneDrive, Teams, and Entra ID.
+- **MLOps and AI infrastructure.** Reproducible training workflows, model serving, monitoring, and production inference.
 
-- 🌐 [Portfolio — thebini.com](https://thebini.com)
-- 💼 [LinkedIn — linkedin.com/in/iambiniyam](https://linkedin.com/in/iambiniyam)
-- 📧 [biniyam.gashaw@hotmail.com](mailto:biniyam.gashaw@hotmail.com)
+## Toolbox
+
+`Linux` `Azure` `Microsoft 365` `Entra ID` `Python` `Go` `TypeScript` `Docker` `GitHub Actions` `CI/CD`
+`Azure ML` `MLflow` `FastAPI` `PyTorch` `ONNX` `OpenCV` `PostgreSQL`
+
+---
+
+## Contact
+
+- Portfolio: [thebini.com](https://thebini.com)
+- LinkedIn: [linkedin.com/in/iambiniyam](https://linkedin.com/in/iambiniyam)
+- Email: biniyam.gashaw@hotmail.com
