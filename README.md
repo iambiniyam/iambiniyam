@@ -2,8 +2,6 @@
 
 **AI agent and LLM engineer.** I build local-first systems that read documents, understand images, and run tools without sending data to a cloud.
 
-I care about the parts that make AI usable outside a demo: evaluation, review UX, permissions, latency, and packaging. Most of the work below ships with tests, CI, and release artifacts where it makes sense.
-
 Beijing, China | [thebini.com](https://thebini.com) | [LinkedIn](https://www.linkedin.com/in/iambiniyam) | [Email](mailto:biniyam.gashaw@hotmail.com)
 
 Open to AI agent and LLM engineering roles.
